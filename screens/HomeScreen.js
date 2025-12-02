@@ -6,9 +6,20 @@ export default function HomeScreen({ navigation }) {
     <View style={styles.container}>
       <Text style={styles.title}>Home Screen</Text>
       <Text style={styles.subtitle}>Welcome to React Native Navigation!</Text>
+
       <Button
         title="Go to Details"
-        onPress={() => navigation.navigate('Details')}
+        onPress={() => navigation.navigate('Details', { 
+          itemId: 2025,
+          userName: 'Bryan Ginit'
+        })}
+      />
+
+      <View style={{ height: 10 }} />
+
+      <Button
+        title="Go to Profile"
+        onPress={() => navigation.navigate('Profile')}
       />
     </View>
   );
