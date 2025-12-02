@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "react-native-navigation-app",
+    "slug": "react-native-navigation-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {}
+  }
+}
