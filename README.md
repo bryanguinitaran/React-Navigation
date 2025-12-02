@@ -79,3 +79,11 @@ npm run web
 - [React Navigation Documentation](https://reactnavigation.org/)
 - [Expo Documentation](https://docs.expo.dev/)
 - [React Native Documentation](https://reactnative.dev/)
+
+- <img width="385" height="884" alt="image" src="https://github.com/user-attachments/assets/6aef193a-8143-43c0-9906-e163bf86c5db" />
+- <img width="383" height="888" alt="image" src="https://github.com/user-attachments/assets/6188e7c1-3a01-4d0a-8bc0-37b0d326714d" />
+- <img width="388" height="881" alt="image" src="https://github.com/user-attachments/assets/2e74a629-08e4-41e3-b8c6-17ada65ae24f" />
+
+- 
+
+
